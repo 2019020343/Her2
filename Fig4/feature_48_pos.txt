@@ -1,0 +1,2 @@
+ONTOLOGY	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+MF	GO:0005201	extracellular matrix structural constituent	7/115	163/17697	9.41185380137975e-05	0.0285179170181806	0.0285179170181806	CHADL/COL17A1/FGB/FGG/HAPLN1/IMPG1/MATN3	7

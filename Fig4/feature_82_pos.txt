@@ -1,0 +1,2 @@
+ONTOLOGY	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+MF	GO:0019211	phosphatase activator activity	3/100	16/17697	9.29384177320623e-05	0.0257439417117813	0.0254357774845644	GTF2F1/PPP2R5A/PPP2R5E	3

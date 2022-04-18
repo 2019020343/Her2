@@ -1,0 +1,2 @@
+ONTOLOGY	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+kegg	hsa05230	Central carbon metabolism in cancer	6/98	70/8113	0.00018715746896567	0.043046217862104	0.0401896038621017	2645/3418/3948/2475/5211/5290	6
